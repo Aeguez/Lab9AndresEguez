@@ -1,0 +1,15 @@
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.csproj.AssemblyReference.cache
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.AssemblyInfoInputs.cache
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.AssemblyInfo.cs
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.csproj.CoreCompileInputs.cache
+C:\repos\C#\Lab9\Lab9AndresEguez\bin\Debug\net6.0\Lab9.exe
+C:\repos\C#\Lab9\Lab9AndresEguez\bin\Debug\net6.0\Lab9.deps.json
+C:\repos\C#\Lab9\Lab9AndresEguez\bin\Debug\net6.0\Lab9.runtimeconfig.json
+C:\repos\C#\Lab9\Lab9AndresEguez\bin\Debug\net6.0\Lab9.dll
+C:\repos\C#\Lab9\Lab9AndresEguez\bin\Debug\net6.0\Lab9.pdb
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.dll
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\refint\Lab9.dll
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.pdb
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\Lab9.genruntimeconfig.cache
+C:\repos\C#\Lab9\Lab9AndresEguez\obj\Debug\net6.0\ref\Lab9.dll
